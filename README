@@ -1,0 +1,8 @@
+ERIC BUCKTHAL -- ebucktha [at] calpoly [dot] edu
+
+INSTRUCTIONS:
+  -- '1' or '2' to select (and highlight) cube or roof
+  -- 't' program in translation state
+  -- 's' program in scale state
+  -- 'r' program in rotate state
+  -- clicking and dragging the image with the program in a t, s, or r and 1 or 2 will apply manipulations
